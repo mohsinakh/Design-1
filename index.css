@@ -182,9 +182,10 @@ body {
     margin: 120px auto;
 }
 .myprojects .container{
-    width: 50vw;
-    height: auto;
+    width: 60vw;
+    height: 40px;
     margin: 40px auto;
+    justify-content: center;
 }
 
 .project{
@@ -336,6 +337,7 @@ color: #FD6F00;
     background-color: #f8f8f8;
     padding: 10px 20px;
     border-radius: 10px;
+    margin: 0px 10px;
     border: 1px solid #545454;
     letter-spacing: 2px;
 }
